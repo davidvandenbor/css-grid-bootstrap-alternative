@@ -7,8 +7,8 @@ Example of how to clone the Bootstrap (or Foundation) grid behaviour by just usi
 Start by creating  a 12 column grid definition in your CSS file (it can be any amount of columns really! 🙂
 
 ```CSS
-  display:grid;
-  grid-template-columns: repeat(12,1fr);
+display:grid;
+grid-template-columns: repeat(12,1fr);
 ```
 
 And then define the column spans for the columns in your lay-outs:
