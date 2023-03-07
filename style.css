@@ -2,9 +2,9 @@ section {
   max-width:800px;
   margin:0 auto;
   display:grid;
-  grid-gap:30px;
+  grid-gap:10px;
   grid-template-columns: repeat(12,1fr);
-  grid-template-rows:100px 200px 50px;
+  grid-template-rows:100px 200px 80px;
 }
 
 header,nav,main,footer {
