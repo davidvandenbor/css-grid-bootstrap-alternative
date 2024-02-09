@@ -1,6 +1,8 @@
 # CSS grid Bootstrap alternative
 
-Play live with this code in **CodeSandBox** > [click here!](https://codesandbox.io/s/github/davidvandenbor/css-grid-bootstrap-alternative)
+**Download** to your desktop? [Klik hier](https://github.com/davidvandenbor/css-grid-bootstrap-alternative/archive/refs/heads/master.zip)     
+Preview in the browser? [Klik hier](https://davidvandenbor.github.io/css-grid-bootstrap-alternative)  
+Play live with this code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/davidvandenbor/css-grid-bootstrap-alternative) 
 
 Example of how to clone the Bootstrap (or Foundation) grid behaviour by just using vanilla CSS grids! You can easily create your own grid system by just using a few lines of CSS code. Start by creating  a 12 column grid definition in your CSS file (it can be any amount of columns really!) 🙂
 
