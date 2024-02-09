@@ -17,3 +17,5 @@ nav { grid-column: span 3;}
 main { grid-column:span 9;}
 footer { grid-column:span 12;}
 ```
+Cheers,
+David!
